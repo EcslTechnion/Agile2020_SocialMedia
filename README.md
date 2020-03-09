@@ -1,5 +1,5 @@
 # Agile2020_SocialMedia
-# Repository of Pbulished article in Agile 2020 conference
+# Repository of published article in Agile 2020 conference
 
 Title:Whom to Follow? A Comparison of Walking Routes Computed Based on Social Media Photos from Different Types of Contributors
 
