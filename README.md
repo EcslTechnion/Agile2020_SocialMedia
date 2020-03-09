@@ -1,9 +1,8 @@
 # Agile2020_SocialMedia
-# Repository of published article in Agile 2020 conference
 
 Title:Whom to Follow? A Comparison of Walking Routes Computed Based on Social Media Photos from Different Types of Contributors
 
-Published materials for submitted paper Agile 2020
+Published materials repository of submitted paper in the conference : Agile 2020
 
 GENERAL
 
@@ -15,7 +14,7 @@ of compute adaptive spatiotemporal descriptors to classify between groups of con
 Using grid cell clustering we have generated populariy socre matrix based on accumulated
 number of each contributors group.
 Aforementioned, we have implemented walking route compuataion using Orienteering problem appproach
-and used the score populariy matrix for computed weighted route.
+and used the score populariy matrix for computing weighted route.
 
 This research presents the use of social media for developing context-aware walking routes
 adjusted to user's interest. The classification between tourists and locals allow
